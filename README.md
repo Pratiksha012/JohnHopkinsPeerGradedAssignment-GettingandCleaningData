@@ -30,7 +30,7 @@ You should create one R script called run_analysis.R that does the following.
 
 # About the run_analysis.R file script:
 
-As the session was carried out in Coursera lab sandbox environment, the datasets were downloaded from the listed websites into my RStudio lab environment as Lab sandboxes have limited access to external sites and hence uploading the data files directly will help ensure I do not encounter errors
+The datasets were downloaded from the listed websites and imported into my RStudio lab environment to avoid encountering access errors.
 
 #Reading the values of the test Dataset and assigning the values to variables x_test, y_test, subject_test accordingly
 
